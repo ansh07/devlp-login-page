@@ -1,0 +1,141 @@
+body{
+background: url(bg3.jpg);
+background-size: cover;
+
+  }
+
+  div.header{
+    float: left;
+    border-style: none;
+  	border-radius: 10px;
+  	position: absolute;
+  	left:20px;
+  	top: 20px;
+  	width: 32%;
+  	height:100%;
+  	background-color: white;
+  	opacity: 0.8;
+  }
+
+  div.container{
+
+    position: relative;
+    top: 200px;
+    float: right;
+    width: 67%;
+    height: 100%;
+    text-align: center;
+    }
+  .but1{
+    border: 1px solid #3498db;
+    background: lightyellow;
+    padding: 10px 20px;
+    margin-top: 100px;
+    font-family: monteserrat;
+
+  }
+  .but2{
+    border: 1px solid #3498db;
+    background: lightyellow;
+    padding: 10px 20px;
+
+    font-family: monteserrat;
+
+  }
+  .but3{
+    border: 1px solid #3498db;
+    background: lightyellow;
+    padding: 10px 20px;
+
+    font-family: monteserrat;
+
+  }
+  .but4{
+    border: 1px solid #3498db;
+    background: lightyellow;
+    padding: 10px 20px;
+
+    font-family: monteserrat;
+
+  }
+
+  div img{
+  	position: absolute;
+  	left:85px;
+  	top: 0px;
+  	width: 200px;
+  	height: 150px;
+    border-radius: 25px;
+  }
+p1{
+  position: relative;
+  top: 170px;
+  left:18px;
+  font-family: sans-serif;
+}
+p1.bold{
+  font-style: bold;
+}
+
+#snup{
+  font-size: 12px;
+}
+#fp{
+  font-size: 12px;
+  position:absolute;
+  top: 212px;
+  left: 250px;
+
+}
+#lg{
+  border-width: thin;
+  border-radius: 10px;
+  background-color: lightblue;
+  position: relative;
+  left: 80px;
+  width:200px;
+  height:27px;
+
+}
+
+#ip1{
+	width:350px;
+	height: 30px;
+	border-color: black;
+	background-color:lightblue;
+	color:black;
+}
+
+#ip2{
+	width:350px;
+	height: 30px;
+	border-color: black;
+	background-color:lightblue;
+	color:black;
+}
+
+label{
+  font-size: 13px;
+  position: absolute;
+  left: 30px;
+  top: 212px;
+}
+#cb1{
+  position: absolute;
+  top:212px;
+}
+p.us1{
+  font-size: 13px;
+}
+p.ps1{
+  font-size: 13px;
+}
+a:link{
+  color: black;
+}
+a:visited{
+  color: red;
+}
+a:hover{
+  color: red;
+}
